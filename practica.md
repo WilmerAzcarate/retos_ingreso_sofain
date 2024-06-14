@@ -2,6 +2,14 @@
 
 Se requiere un sistema que nos permita administrar muchas bibliotecas con una sola herramienta, para eso se presentan los siguientes requisitos:
 
+## Reglas de la prueba:
+
+1. La prueba debe realizarse usando laravel.
+2. No se permite el uso de inteligencia artificial durante la prueba.
+3. Se permite el uso de cualquier recurso de internet (Excluyendo ia).
+4. Tiempo de la prueba, 4 horas.
+5. Se dan puntos dependiendo de la cantidad de requisitos cumplidos.
+
 ## Pre requisitos.
 
 Las bibliotecas deben ir vinculadas al usuario que las crea y este es el administrador de las bibliotecas que a creado. Por esta razon se debe contar con un sistema de registro y inicio de sesión.

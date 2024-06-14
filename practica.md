@@ -49,11 +49,12 @@ Las bibliotecas deben ir vinculadas al usuario que las crea y este es el adminis
 6. Debe permitir registrar nuevas copias de los libros, con los siguientes campos:
    - Libro al que pertenece la copia.
    - Numero de copia: obligatorio.
-   - Estanteria donde se guarda la copia.
+   - Estanteria donde se guarda la copia debe ser del mismo tema al cual pertenece el libro.
 
 ## Usuarios
-
-1. Los usuarios deben permitir buscar bibliotecas, libros o autores que no hayan registrado ellos mismos.
+Los usuarios podran crear un repositorio personal administrada por el mismo.
+1. Los usuarios deben poder buscar bibliotecas, libros o autores que no hayan registrado ellos mismos.
 2. Al ver las estanterias, estas deben verse segun el codigo de color del tema al que pertenecen.
 3. Al buscar un libro debe mostrar las bibliotecas , el numero de copias que tenga cada biblioteca y la estanteria donde esten ubicadas.
-4. Cuando un usuario entra a una biblioteca, debe mostrar las estanterias ordenadas segun el numero de libros que tenga cada 1.
+4. Cuando un usuario entra a una biblioteca, debe mostrar las estanterias ordenadas segun el numero de libros que tenga cada uno.
+5. Distintos usuarios pueden ver los repositorios de otros usuarios pero no modificarlos.

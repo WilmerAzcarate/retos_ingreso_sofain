@@ -52,7 +52,7 @@ Las bibliotecas deben ir vinculadas al usuario que las crea y este es el adminis
    - Estanteria donde se guarda la copia debe ser del mismo tema al cual pertenece el libro.
 
 ## Usuarios
-Los usuarios podran crear un repositorio personal administrada por el mismo.
+Los usuarios podran crear una biblioteca personal administrada por el mismo.
 1. Los usuarios deben poder buscar bibliotecas, libros o autores que no hayan registrado ellos mismos.
 2. Al ver las estanterias, estas deben verse segun el codigo de color del tema al que pertenecen.
 3. Al buscar un libro debe mostrar las bibliotecas , el numero de copias que tenga cada biblioteca y la estanteria donde esten ubicadas.

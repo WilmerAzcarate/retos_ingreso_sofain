@@ -12,10 +12,10 @@
 | N.  | Nombre                        | Ficha   | Repositorio                                                         | Resultado        |
 | --- | ----------------------------- | ------- | ------------------------------------------------------------------- | ---------------- |
 | 01  | Dubar Stiven Chamorro Caicedo | 2711891 | [Repositorio](https://github.com/StivenChamorro/pruebasenasoft.git) | Pre seleccionado |
-| 02  | Jodier Guzman Zapata          | 2711891 | [Repositorio](https://github.com/lolkarmalol/Prueba)                | Por ver          |
+| 02  | Jodier Guzman Zapata          | 2711891 | [Repositorio](https://github.com/lolkarmalol/Prueba)                | Pre seleccionado |
 | 03  | Deiron Yesith Jiménez Mera    | 2711891 | [Repositorio](https://github.com/Yesid-Ackerman/restaurante.git)    | Pre seleccionado |
-| 04  | Diego Quilindo                | 2711891 | [Repositorio](https://github.com/JoHnatanWiCK/Ultima)               | Por ver          |
-| 05  | Paula Yisel Valencia Mona     | 2711891 | [Repositorio](https://github.com/Paula-Valencia/prueba.git)         | Por ver          |
+| 04  | Diego Quilindo                | 2711891 | [Repositorio](https://github.com/JoHnatanWiCK/Ultima)               | Revisado         |
+| 05  | Paula Yisel Valencia Mona     | 2711891 | [Repositorio](https://github.com/Paula-Valencia/prueba.git)         | Revisado         |
 
 ## Ficha: 2774315
 | N.  | Nombre                         | Ficha   | Repositorio                                                        | Resultado         |

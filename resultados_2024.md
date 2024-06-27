@@ -6,7 +6,7 @@
 | 01  |  Jose David Perafan                  | 2680967 | [Repositorio](https://github.com/josedavidp12/Prueba)                | Pre seleccionado   |
 | 02  | Sebastián Alejandro Castro Hérnandez | 2680967 | [Repositorio](https://github.com/Seb4sC/sofain.git)                  | Pre Seleccionado   |
 | 03  | Fernando Stiven Rosero Cruz          | 2680967 | [Repositorio](https://github.com/fernandorosero6/ExamenSenaSoft.git) | Revisado           |
-| 04  | Alejandro Imbachí Hoyos              | 2680967 | [Repositorio](https://github.com/alejoImbach1/pruebasenasoft)        | Revisado           |
+| 04  | Alejandro Imbachí Hoyos              | 2680967 | [Repositorio](https://github.com/alejoImbach1/pruebasenasoft)        | Pre seleccionado       |
 
 ## Ficha: 2711891
 | N.  | Nombre                        | Ficha   | Repositorio                                                         | Resultado        |

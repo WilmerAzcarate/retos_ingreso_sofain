@@ -3,9 +3,9 @@
 ## Ficha: 2680967
 | N.  | Nombre                               | Ficha   | Repositorio                                                          | Resultado          |
 | --- | ------------------------------------ | ------- | -------------------------------------------------------------------- | ------------------ |
-| 01  |  Jose David Perafan                  | 2680967 | [Repositorio](https://github.com/josedavidp12/Prueba)                | Revisado   |
+| 01  |  Jose David Perafan                  | 2680967 | [Repositorio](https://github.com/josedavidp12/Prueba)                | Suplente   |
 | 02  | Sebastián Alejandro Castro Hérnandez | 2680967 | [Repositorio](https://github.com/Seb4sC/sofain.git)                  | Integral   |
-| 03  | Fernando Stiven Rosero Cruz          | 2680967 | [Repositorio](https://github.com/fernandorosero6/ExamenSenaSoft.git) | Revisado           |
+| 03  | Fernando Stiven Rosero Cruz          | 2680967 | [Repositorio](https://github.com/fernandorosero6/ExamenSenaSoft.git) | Suplente          |
 | 04  | Alejandro Imbachí Hoyos              | 2680967 | [Repositorio](https://github.com/alejoImbach1/pruebasenasoft)        | Libre       |
 
 ## Ficha: 2711891
